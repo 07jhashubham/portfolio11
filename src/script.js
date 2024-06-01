@@ -6,6 +6,7 @@ import gsap from "gsap/gsap-core";
  * Debug
  */
 const gui = new GUI();
+gui.hide();
 
 const parameters = {
   materialColor: "#ffeded",
